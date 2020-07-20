@@ -1,6 +1,8 @@
 
 # Wrangling and Analyzation of WeRateDogs Data
 
+[Project Notebook](https://github.com/Nikhil-K99/WeRateDogs_Wrangling_Project/blob/master/wrangle_act.ipynb)
+
 [Click here to view the WeRateDogs Analysis Report](https://github.com/Nikhil-K99/WeRateDogs_Wrangling_Project/blob/master/act_report.pdf)
 
 ## Project Overview
